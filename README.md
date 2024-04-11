@@ -4,6 +4,11 @@ Code + datasets for the paper SYNTHETIC SPEECH DETECTION WITH WAV2VEC 2.0 IN VAR
 
 URL: [TODO]
 
+Datasets are available here:
+- https://huggingface.co/datasets/realnetworks-kontxt/fleurs-hs
+- https://huggingface.co/datasets/realnetworks-kontxt/arctic-hs
+- https://huggingface.co/datasets/realnetworks-kontxt/fleurs-hs-vits
+
 ## Introduction
 
 Repo contains:
